@@ -14,6 +14,7 @@
 		474BB87B1D9A666900F53A15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 474BB87A1D9A666900F53A15 /* Assets.xcassets */; };
 		474BB87E1D9A666900F53A15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 474BB87C1D9A666900F53A15 /* LaunchScreen.storyboard */; };
 		474BB8861D9A68CF00F53A15 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 474BB8851D9A68CF00F53A15 /* README.md */; };
+		474BB8951D9A714A00F53A15 /* CircleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474BB8941D9A714A00F53A15 /* CircleViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		474BB87D1D9A666900F53A15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		474BB87F1D9A666900F53A15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		474BB8851D9A68CF00F53A15 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		474BB8941D9A714A00F53A15 /* CircleViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleViewModel.swift; sourceTree = "<group>"; };
 		7AF199797A3F93FEAF54A86B /* Pods_colorBall.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_colorBall.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADF5E2FF4158386302723E2A /* Pods-colorBall.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-colorBall.debug.xcconfig"; path = "Pods/Target Support Files/Pods-colorBall/Pods-colorBall.debug.xcconfig"; sourceTree = "<group>"; };
 		DC053DF6E30F8F162EFD84E4 /* Pods-colorBall.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-colorBall.release.xcconfig"; path = "Pods/Target Support Files/Pods-colorBall/Pods-colorBall.release.xcconfig"; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				474BB8851D9A68CF00F53A15 /* README.md */,
 				474BB8731D9A666900F53A15 /* AppDelegate.swift */,
 				474BB8751D9A666900F53A15 /* ViewController.swift */,
+				474BB8941D9A714A00F53A15 /* CircleViewModel.swift */,
 				474BB8771D9A666900F53A15 /* Main.storyboard */,
 				474BB87A1D9A666900F53A15 /* Assets.xcassets */,
 				474BB87C1D9A666900F53A15 /* LaunchScreen.storyboard */,
@@ -215,6 +218,7 @@
 			files = (
 				474BB8861D9A68CF00F53A15 /* README.md in Sources */,
 				474BB8761D9A666900F53A15 /* ViewController.swift in Sources */,
+				474BB8951D9A714A00F53A15 /* CircleViewModel.swift in Sources */,
 				474BB8741D9A666900F53A15 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
