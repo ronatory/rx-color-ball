@@ -12,3 +12,5 @@ To install, download it or clone and then start `pod install` from the project d
 - Use [Chameleon](https://github.com/ViccAlexander/Chameleon)
 
 ## Result
+
+![](https://media.giphy.com/media/3o6Zt3JbEMe4N5RbSU/giphy.gif)
